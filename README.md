@@ -1,8 +1,32 @@
-# React + Vite
+#  React - Basic Sorting
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Table of Contents
 
-Currently, two official plugins are available:
+- [Setup](#setup)
+- [Running the Application](#running-the-application)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Setup
+
+1. Clone the repository:
+
+`git clone https://github.com/jakaria-alzaf/react-sort-basic.git`
+
+2. Navigate to the project directory:
+`cd your-repository`
+3. Make your you've already installed ## pnpm in your local machine
+   `npm i -g pnpm`
+   
+4.Install dependencies:
+`pnpm install`
+
+
+#Running the Application
+
+1. Build the Application:
+`pnpm run build`
+
+2. Start the application:
+`pnpm run dev`
+
+3. The server will be running at:
+`http://localhost:3000.`
